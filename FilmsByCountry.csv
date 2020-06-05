@@ -1,0 +1,155 @@
+,Country,Number of Films,CODE
+0,Afghanistan,4,AFG
+1,Albania,5,ALB
+2,Algeria,4,DZA
+3,Angola,1,AGO
+4,Argentina,106,ARG
+5,Armenia,4,ARM
+6,Aruba,1,ABW
+7,Australia,321,AUS
+8,Austria,48,AUT
+9,Azerbaijan,1,AZE
+10,Bahamas,5,BHS
+11,Bahrain,1,BHR
+12,Bangladesh,8,BGD
+13,Belarus,5,BLR
+14,Belgium,151,BEL
+15,Bermuda,1,BMU
+16,Bolivia,3,BOL
+17,Bosnia and Herzegovina,7,BIH
+18,Botswana,1,BWA
+19,Brazil,64,BRA
+20,Bulgaria,29,BGR
+21,Burkina Faso,2,BFA
+22,Burundi,1,BDI
+23,Cambodia,11,KHM
+24,Cameroon,2,CMR
+25,Canada,1117,CAN
+26,Cayman Islands,4,CYM
+27,Chad,1,TCD
+28,Chile,22,CHL
+29,China,189,CHN
+30,Colombia,35,COL
+31,Congo,4,PRK
+32,Costa Rica,2,CRI
+33,Croatia,14,HRV
+34,Cuba,4,CUB
+35,Cyprus,2,CYP
+36,Czech Republic,44,CZE
+38,Côte d'Ivoire,1,CIV
+39,Denmark,113,DNK
+40,Djibouti,2,DJI
+41,Dominican Republic,6,DOM
+43,Ecuador,5,ECU
+44,Egypt,50,EGY
+45,El Salvador,1,SLV
+46,Equatorial Guinea,1,GNQ
+47,Estonia,8,EST
+48,Ethiopia,5,ETH
+50,Finland,40,FIN
+51,France,741,FRA
+52,Georgia,7,GEO
+53,Germany,567,DEU
+54,Ghana,6,GHA
+55,Greece,32,GRC
+56,Guam,1,GUM
+57,Guatemala,12,GTM
+58,Haiti,5,HTI
+59,Holy See (Vatican City State),1,VAT
+60,Honduras,2,HND
+61,Hong Kong,269,HKG
+62,Hungary,35,HUN
+63,Iceland,25,ISL
+64,India,1157,IND
+65,Indonesia,56,IDN
+66,Iran,15,IRN
+67,Iraq,6,IRQ
+68,Ireland,128,IRL
+69,Isle Of Man,3,IMN
+70,Israel,79,ISR
+71,Italy,417,ITA
+72,Jamaica,4,JAM
+73,Japan,266,JPN
+74,Jordan,9,JOR
+75,Kazakhstan,5,KAZ
+76,Kenya,12,KEN
+78,Kosovo,1,RKS
+79,Kuwait,1,KWT
+80,Kyrgyzstan,2,KGZ
+82,Latvia,7,LVA
+83,Lebanon,10,LBN
+84,Liberia,3,LBR
+85,Libya,3,LBY
+86,Liechtenstein,1,LIE
+87,Lithuania,9,LTU
+88,Luxembourg,27,LUX
+89,Macao,1,MAC
+90,Malawi,2,MWI
+91,Malaysia,20,MYS
+92,Mali,2,MLI
+93,Malta,4,MLT
+94,Mexico,183,MEX
+96,Monaco,8,MCO
+97,Mongolia,2,MNG
+98,Montenegro,3,MNE
+99,Morocco,12,MAR
+100,Mozambique,3,MOZ
+101,Namibia,4,NAM
+102,Nepal,5,NPL
+103,Netherlands,116,NLD
+104,New Zealand,60,NZL
+105,Nicaragua,3,NIC
+106,Nigeria,25,NGA
+107,Norway,56,NOR
+108,Oman,1,OMN
+109,Pakistan,25,PAK
+110,Palestine,8,PSE
+111,Panama,5,PAN
+112,Papua New Guinea,2,PNG
+113,Paraguay,2,PRY
+114,Peru,21,PER
+115,Philippines,94,PHL
+116,Poland,63,POL
+117,Portugal,21,PRT
+118,Puerto Rico,3,PRI
+119,Qatar,13,QAT
+120,Republic of North Macedonia,6,MKD
+122,Romania,41,ROU
+123,Russia,62,RUS
+124,Rwanda,6,RWA
+125,Saudi Arabia,4,SAU
+126,Senegal,5,SEN
+127,Serbia,11,SRB
+129,Sierra Leone,1,SLE
+130,Singapore,29,SGP
+131,Slovakia,8,SVK
+132,Slovenia,8,SVN
+133,Somalia,3,SOM
+134,South Africa,86,ZAF
+135,South Korea,162,KOR
+137,Spain,329,ESP
+138,Sri Lanka,3,LKA
+139,Sudan,2,SDN
+140,Swaziland,1,SWZ
+141,Sweden,118,SWE
+142,Switzerland,76,CHE
+144,Taiwan,80,TWN
+145,Tajikistan,1,TJK
+146,Tanzania,2,TZA
+147,Thailand,64,THA
+149,Tonga,1,TON
+150,Trinidad and Tobago,2,TTO
+151,Tunisia,6,TUN
+152,Turkey,88,TUR
+154,Uganda,4,UGA
+155,Ukraine,16,UKR
+156,United Arab Emirates,43,ARE
+157,United Kingdom,1713,GBR
+158,United States,10486,USA
+159,Uruguay,17,URY
+160,Vanuatu,1,VUT
+161,Venezuela,7,VEN
+162,Vietnam,4,VNM
+163,Yemen,1,YEM
+165,Zambia,1,ZMB
+166,Zimbabwe,2,ZWE
